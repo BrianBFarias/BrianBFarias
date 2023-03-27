@@ -23,6 +23,8 @@ src="https://gwcareercampus.com/wp-content/uploads/sites/40/Microsoft-Excel.png"
 src="https://logos-world.net/wp-content/uploads/2021/02/Outlook-Logo.png" alt="Outlook" width="38" height="23" /></a>
    <a href = "https://www.jetbrains.com/clion/" target="_blank" rel="noreferrer noopener"><img 
 src="https://cdn.freebiesupply.com/logos/large/2x/clion-1-logo-png-transparent.png" alt="JavaScript" width="25" height="25" /></a> 
+   <a href = "https://www.connectwise.com" target="_blank" rel="noreferrer noopener"><img 
+src="https://www.connectwise.com/globalassets/media/archive/brand-guidelines-2021/2021-icons/color/CW-icon-Blue.png" alt="JavaScript" width="25" height="25" /></a> 
 
 ## GitHub Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BrianBFarias&show_icons=true&locale=en" alt="BrianBFarias" /></p>
