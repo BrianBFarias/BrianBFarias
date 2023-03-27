@@ -1,5 +1,5 @@
 # Brian Farias
-### I am looking to improve myself, a team, a company eith my knowledge.
+### I am looking to improve myself, with not only new skills but new experience
 
 As a computer science student, I take pride in what I do. I feel Every Line of code put out has the ability to improve not only a project but an entire company, so i continue learning, creating, pushing my boundaries to help not only myself succeed but those around me aswell.
 
