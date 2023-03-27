@@ -20,7 +20,7 @@ src="https://cdn.pixabay.com/photo/2017/03/30/17/41/javascript-2189147_960_720.p
  <a href="" target="_blank" rel="noreferrer noopener"><img 
 src="https://gwcareercampus.com/wp-content/uploads/sites/40/Microsoft-Excel.png" alt="Excel" width="25" height="25" /></a> 
  <a href="" target="_blank" rel="noreferrer noopener"><img 
-src="https://w7.pngwing.com/pngs/653/271/png-transparent-email-logo-microsoft-outlook-outlook-com-email-microsoft-office-365-outlook-logo-blue-angle-text.png" alt="Outlook" width="25" height="25" /></a>
+src="https://w7.pngwing.com/pngs/653/271/png-transparent-email-logo-microsoft-outlook-outlook-com-email-microsoft-office-365-outlook-logo-blue-angle-text.png" alt="Outlook" width="35" height="25" /></a>
    
 ## GitHub Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BrianBFarias&show_icons=true&locale=en" alt="BrianBFarias" /></p>
