@@ -9,6 +9,7 @@
 
 ϟ Currently Learning anything and everything
 
+(https://gfycat.com/annualimpuregiraffe)
 
 
  ## Skills
