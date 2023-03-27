@@ -1,7 +1,7 @@
 # Brian Farias
-### I am looking to improve myself, with not only new skills but new experience
+### I am looking to improve myself, with not only new skills but new experiences
 
-> As a computer science student, I take pride in what I do. I feel Every Line of code put out has the ability to improve not only a project but an entire company, so i continue learning, creating, pushing my boundaries to help not only myself succeed but those around me aswell.
+> As a computer science student, I take pride in what I do. I feel Every Line of code put out has the ability to improve not only a project but an entire company, so i continue learning, creating, pushing my boundaries to help not only myself succeed but those I work with  aswell.
 
 <a aligh="left" href="https://www.linkedin.com/in/bbfarias/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>  
 
