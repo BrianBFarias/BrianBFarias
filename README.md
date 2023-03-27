@@ -26,7 +26,7 @@ src="https://cdn.freebiesupply.com/logos/large/2x/clion-1-logo-png-transparent.p
    <a href = "https://www.connectwise.com" target="_blank" rel="noreferrer noopener"><img 
 src="https://www.connectwise.com/globalassets/media/archive/brand-guidelines-2021/2021-icons/color/CW-icon-Blue.png" alt="JavaScript" width="28" height="28" /></a> 
     <a href = "https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview" target="_blank" rel="noreferrer noopener"><img 
-src="https://wiki.hornbill.com/images/d/d6/Activedirectory_logo.png" alt="JavaScript" width="70" height="25" /></a> 
+src="https://wiki.hornbill.com/images/d/d6/Activedirectory_logo.png" alt="JavaScript" width="78" height="25" /></a> 
 
 ## GitHub Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BrianBFarias&show_icons=true&locale=en" alt="BrianBFarias" /></p>
