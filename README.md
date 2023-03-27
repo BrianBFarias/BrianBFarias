@@ -7,7 +7,7 @@ As a computer science student, I take pride in what I do. I feel Every Line of c
 
 ⚐ Based in United States
 
-ϟ Currently Learning anything and Everything
+ϟ Currently Learning anything and everything
 
 
 
