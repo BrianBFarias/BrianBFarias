@@ -9,7 +9,7 @@
 
 ϟ Currently Learning anything and everything
 
-[Source](https://gfycat.com/annualimpuregiraffe)
+1[](/AnnualImpureGiraffe-size_restricted.gif)
 
 
  ## Skills
