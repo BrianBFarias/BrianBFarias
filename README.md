@@ -9,7 +9,7 @@
 
 ϟ Currently Learning anything and everything
 
-1[](/AnnualImpureGiraffe-size_restricted.gif)
+![](/AnnualImpureGiraffe-size_restricted.gif)
 
 
  ## Skills
