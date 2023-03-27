@@ -26,7 +26,7 @@ src="https://cdn.freebiesupply.com/logos/large/2x/clion-1-logo-png-transparent.p
    <a href = "https://code.visualstudio.com" target="_blank" rel="noreferrer noopener"><img 
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code" width="25" height="25" /></a> 
    <a href = "https://www.connectwise.com" target="_blank" rel="noreferrer noopener"><img 
-src="https://www.connectwise.com/globalassets/media/archive/brand-guidelines-2021/2021-icons/color/CW-icon-Blue.png" alt="ConnectWise" width="28" height="28" /></a> 
+src="https://www.connectwise.com/globalassets/media/archive/brand-guidelines-2021/2021-icons/color/CW-icon-Blue.png" alt="ConnectWise" width="30" height="35" /></a> 
     <a href = "https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview" target="_blank" rel="noreferrer noopener"><img 
 src="https://wiki.hornbill.com/images/d/d6/Activedirectory_logo.png" alt="Active Directory" width="85" height="23" /></a> 
 
