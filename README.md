@@ -17,12 +17,12 @@
    <a href="https://www.sfml-dev.org" target="_blank" rel="noreferrer noopener"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/SFML_Logo.svg/2048px-SFML_Logo.svg.png" alt="SFML" width="25" height="25" /></a> 
    <a href="https://www.javascript.com" target="_blank" rel="noreferrer noopener"><img 
 src="https://cdn.pixabay.com/photo/2017/03/30/17/41/javascript-2189147_960_720.png" alt="JavaScript" width="30" height="25" /></a> 
-   <a target="_blank" rel="noreferrer noopener"><img 
+   <a href = "https://github.com/BrianBFarias" target="_blank" rel="noreferrer noopener"><img 
 src="https://gwcareercampus.com/wp-content/uploads/sites/40/Microsoft-Excel.png" alt="Excel" width="25" height="25" /></a> 
-   <a target="_blank" rel="noreferrer noopener"><img 
+   <a href = "https://github.com/BrianBFarias" target="_blank" rel="noreferrer noopener"><img 
 src="https://logos-world.net/wp-content/uploads/2021/02/Outlook-Logo.png" alt="Outlook" width="38" height="23" /></a>
-   <a href="https://www.jetbrains.com/clion/" target="_blank" rel="noreferrer noopener"><img 
-src="https://cdn.freebiesupply.com/logos/large/2x/clion-1-logo-png-transparent.png" alt="JavaScript" width="30" height="25" /></a> 
+   <a href = "https://www.jetbrains.com/clion/" target="_blank" rel="noreferrer noopener"><img 
+src="https://cdn.freebiesupply.com/logos/large/2x/clion-1-logo-png-transparent.png" alt="JavaScript" width="25" height="25" /></a> 
 
 ## GitHub Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BrianBFarias&show_icons=true&locale=en" alt="BrianBFarias" /></p>
