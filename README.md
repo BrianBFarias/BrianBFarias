@@ -18,7 +18,7 @@
    <a href="https://www.javascript.com" target="_blank" rel="noreferrer noopener"><img 
 src="https://cdn.pixabay.com/photo/2017/03/30/17/41/javascript-2189147_960_720.png" alt="JavaScript" width="30" height="25" /></a> 
  <a href="" target="_blank" rel="noreferrer noopener"><img 
-src="http://store-images.s-microsoft.com/image/apps.61809.9007199266252410.0fe7d25b-a481-457b-af73-1a5783cc902f.35f25177-b120-4743-a9a0-10525ab235ac" alt="Excel" width="40" height="40" /></a> 
+src="https://gwcareercampus.com/wp-content/uploads/sites/40/Microsoft-Excel.png" alt="Excel" width="25" height="25" /></a> 
    
 ## GitHub Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BrianBFarias&show_icons=true&locale=en" alt="BrianBFarias" /></p>
