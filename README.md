@@ -1,9 +1,9 @@
 # Brian Farias
-### Iam looking to improve myself, a team, a company eith my knowledge.
+### I am looking to improve myself, a team, a company eith my knowledge.
 
 ⤷ As a computer science student, I take pride in what I do. I feel Every Line of code put out has the ability to improve not only a project but an entire company, so i continue learning, creating, pushing my boundaries to help not only myself succeed but those around me aswell.
 
- <a aligh="left" href="https://javierarango.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/globe.svg" alt="Website" width="22" height="22" /></a> <a aligh="left" href="https://twitter.com/javier_arango_" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/twitter.svg" alt="Twitter" width="22" height="22" /></a> <a aligh="left" href="https://www.linkedin.com/in/javier-arango" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>  
+<a aligh="left" href="https://www.linkedin.com/in/bbfarias/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>  
 
 ⚐ Based in United States
 
