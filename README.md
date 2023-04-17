@@ -7,7 +7,6 @@
 
 ⚐ Based in United States
 
-ϟ Currently Learning anything and everything
 
 ![](/AnnualImpureGiraffe-size_restricted.gif)
 
