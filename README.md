@@ -31,6 +31,6 @@ src="https://www.connectwise.com/globalassets/media/archive/brand-guidelines-202
 src="https://wiki.hornbill.com/images/d/d6/Activedirectory_logo.png" alt="Active Directory" width="85" height="23" /></a> 
 
 ## GitHub Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BrianBFarias" alt="BrianBFarias" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BrianBFarias&&show_icons=true&theme=default" alt="BrianBFarias" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BrianBFarias&" alt="BrianBFarias" /></p>
