@@ -5,10 +5,9 @@
 
 <a aligh="left" href="https://www.linkedin.com/in/bbfarias/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>  
 
-⚐ Based in United States
+⚐ Based in Florida, United States
 
 
-![](/AnnualImpureGiraffe-size_restricted.gif)
 
 
  ## Skills
