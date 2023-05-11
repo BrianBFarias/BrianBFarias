@@ -28,6 +28,8 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Cod
 src="https://www.connectwise.com/globalassets/media/archive/brand-guidelines-2021/2021-icons/color/CW-icon-Blue.png" alt="ConnectWise" width="30" height="35" /></a> 
     <a href = "https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview" target="_blank" rel="noreferrer noopener"><img 
 src="https://wiki.hornbill.com/images/d/d6/Activedirectory_logo.png" alt="Active Directory" width="85" height="23" /></a> 
+   <a href = "https://react.dev" target="_blank" rel="noreferrer noopener"><img 
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React App" width="28" height="23" /></a> 
 
 ## GitHub Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BrianBFarias&&show_icons=true&theme=default" alt="BrianBFarias" /></p>
