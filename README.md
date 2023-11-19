@@ -11,20 +11,17 @@
    <a href="https://www.sfml-dev.org" target="_blank" rel="noreferrer noopener"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/SFML_Logo.svg/2048px-SFML_Logo.svg.png" alt="SFML" width="25" height="25" /></a> 
    <a href="https://www.javascript.com" target="_blank" rel="noreferrer noopener"><img 
 src="https://cdn.pixabay.com/photo/2017/03/30/17/41/javascript-2189147_960_720.png" alt="JavaScript" width="30" height="25" /></a> 
-   <a href = "https://github.com/BrianBFarias" target="_blank" rel="noreferrer noopener"><img 
-src="https://gwcareercampus.com/wp-content/uploads/sites/40/Microsoft-Excel.png" alt="Excel" width="25" height="25" /></a> 
-   <a href = "https://github.com/BrianBFarias" target="_blank" rel="noreferrer noopener"><img 
-src="https://logos-world.net/wp-content/uploads/2021/02/Outlook-Logo.png" alt="Outlook" width="38" height="23" /></a>
    <a href = "https://www.jetbrains.com/clion/" target="_blank" rel="noreferrer noopener"><img 
 src="https://cdn.freebiesupply.com/logos/large/2x/clion-1-logo-png-transparent.png" alt="Clion" width="25" height="25" /></a>
    <a href = "https://code.visualstudio.com" target="_blank" rel="noreferrer noopener"><img 
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code" width="25" height="25" /></a> 
-   <a href = "https://www.connectwise.com" target="_blank" rel="noreferrer noopener"><img 
-src="https://www.connectwise.com/globalassets/media/archive/brand-guidelines-2021/2021-icons/color/CW-icon-Blue.png" alt="ConnectWise" width="30" height="35" /></a> 
     <a href = "https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview" target="_blank" rel="noreferrer noopener"><img 
 src="https://wiki.hornbill.com/images/d/d6/Activedirectory_logo.png" alt="Active Directory" width="85" height="23" /></a> 
    <a href = "https://react.dev" target="_blank" rel="noreferrer noopener"><img 
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React App" width="28" height="23" /></a> 
+   <a href = "https://react.dev" target="_blank" rel="noreferrer noopener"><img 
+src="https://www.opengis.ch/wp-content/uploads/2020/04/django-python-logo.png" alt="React App" width="63" height="63" /></a> 
+
 
 ## GitHub Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BrianBFarias&&show_icons=true&theme=default" alt="BrianBFarias" /></p>
